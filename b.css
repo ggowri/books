@@ -8,6 +8,7 @@ html, body {
       justify-content: center;    /* center horizontally */
       align-items: center;        /* center vertically */
       padding: 20px;
+          font-size: 28px;
       box-sizing: border-box;
     }
 
